@@ -1,0 +1,13 @@
+.div1{
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background: seagreen;
+}
+
+.div1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
