@@ -1,17 +1,17 @@
-// // 1. Массив түзөбүз
-// let E1 = ["Google", "Apple", "Samsung" ,];
+// 1. Массив түзөбүз
+let E1 = ["Google", "Apple", "Samsung" ,];
 
-// // 2. Кошумча компанияларды кошом
-// E1.push ("Microsoft");
-// E1.push("Amazon");
+// 2. Кошумча компанияларды кошом
+E1.push ("Microsoft");
+E1.push("Amazon");
 
-// // 3. Массивдеги "Google", "Apple", "Samsung" аттарын башка компанияларга алмаштырдым 
-// E1[0] = "Meta";
-// E1[1] = "Tesla";
-// E1[2] = "Intel";
+// 3. Массивдеги "Google", "Apple", "Samsung" аттарын башка компанияларга алмаштырдым 
+E1[0] = "Meta";
+E1[1] = "Tesla";
+E1[2] = "Intel";
 
 
-// alert(E1)
+alert(E1)
 
 
 
